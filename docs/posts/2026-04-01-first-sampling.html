@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Ethan Doan">
+<meta name="dcterms.date" content="2026-04-01">
+<meta name="description" content="Initial sampling to test tidal effects on foraminifera">
 
-<title>Lab Notebook – Ethan Doan</title>
+<title>First Beach Sampling Trial – Ethan Doan</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,25 +29,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-ff6db9826b2d993648c24e5ed52e3772.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-ff6db9826b2d993648c24e5ed52e3772.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,67 +73,9 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-reading-time','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -142,7 +85,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Ethan Doan</span>
     </a>
   </div>
@@ -153,11 +96,11 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./notebook.html" aria-current="page"> 
+    <a class="nav-link" href="../notebook.html"> 
 <span class="menu-text">Lab Notebook</span></a>
   </li>  
   <li class="nav-item">
@@ -179,7 +122,7 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
@@ -187,27 +130,47 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lab-notebook" id="toc-lab-notebook" class="nav-link active" data-scroll-target="#lab-notebook">Lab Notebook</a></li>
-  <li><a href="#what-this-notebook-tracks" id="toc-what-this-notebook-tracks" class="nav-link" data-scroll-target="#what-this-notebook-tracks">What This Notebook Tracks</a></li>
-  <li><a href="#how-to-use-this-page" id="toc-how-to-use-this-page" class="nav-link" data-scroll-target="#how-to-use-this-page">How to Use This Page</a></li>
-  <li><a href="#current-project-focus" id="toc-current-project-focus" class="nav-link" data-scroll-target="#current-project-focus">Current Project Focus</a></li>
-  <li><a href="#why-an-open-lab-notebook" id="toc-why-an-open-lab-notebook" class="nav-link" data-scroll-target="#why-an-open-lab-notebook">Why an Open Lab Notebook?</a></li>
+  <li><a href="#objective" id="toc-objective" class="nav-link active" data-scroll-target="#objective">Objective</a></li>
+  <li><a href="#method" id="toc-method" class="nav-link" data-scroll-target="#method">Method</a></li>
+  <li><a href="#observations" id="toc-observations" class="nav-link" data-scroll-target="#observations">Observations</a></li>
+  <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps">Next Steps</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="ZGFpbHktZW50cmllcw==">daily-entries <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ZmllbGR3b3Jr">fieldwork <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Z29hbHM=">goals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="c2FtcGxpbmc=">sampling <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
-<main class="content column-page-left" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lab Notebook</h1>
+<h1 class="title">First Beach Sampling Trial</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">sampling</div>
+    <div class="quarto-category">fieldwork</div>
+  </div>
+  </div>
+
+<div>
+  <div class="description">
+    Initial sampling to test tidal effects on foraminifera
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<div class="quarto-title-meta column-page-left">
-
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Ethan Doan </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">April 1, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -217,138 +180,45 @@ window.Quarto = {
 </header>
 
 
-<section id="lab-notebook" class="level2">
-<h2 class="anchored" data-anchor-id="lab-notebook">Lab Notebook</h2>
-<p>This is an open record of ongoing research exploring how foraminifera respond to environmental stress in natural marine systems. Entries document experimental design, field sampling, protocol development, and early-stage results.</p>
-<p>Rather than only presenting final conclusions, this notebook captures the <strong>process of science in real time</strong>—including challenges, adjustments, and unexpected observations.</p>
-<hr>
+<p>This entry documents the first field sampling to test tidal and environmental effects on foraminifera.</p>
+<section id="objective" class="level2">
+<h2 class="anchored" data-anchor-id="objective">Objective</h2>
+<p>Test the initial beach sampling timing during outgoing tide.</p>
 </section>
-<section id="what-this-notebook-tracks" class="level2">
-<h2 class="anchored" data-anchor-id="what-this-notebook-tracks">What This Notebook Tracks</h2>
+<section id="method" class="level2">
+<h2 class="anchored" data-anchor-id="method">Method</h2>
 <ul>
-<li>Field sampling across tidal cycles and environmental conditions<br>
+<li>Sampled at 0 hr, 1 hr, 2 hr, 3 hr<br>
 </li>
-<li>Development of in situ glyoxal fixation protocols<br>
+<li>Collected sediment + water samples<br>
 </li>
-<li>Microscopy and morphospecies identification<br>
-</li>
-<li>RNA extraction and sequencing preparation<br>
-</li>
-<li>Data exploration and early interpretations</li>
+<li>Preserved some samples in glyoxal for fixation testing</li>
 </ul>
-<hr>
 </section>
-<section id="how-to-use-this-page" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-use-this-page">How to Use This Page</h2>
+<section id="observations" class="level2">
+<h2 class="anchored" data-anchor-id="observations">Observations</h2>
 <ul>
-<li><strong>Search</strong> to find specific experiments, methods, or observations<br>
+<li>Salinity varied more than expected<br>
 </li>
-<li><strong>Filter by category</strong> (e.g., sampling, microscopy, RNA-seq)<br>
+<li>Sediment composition changed across locations<br>
 </li>
-<li><strong>Sort entries</strong> by date or topic<br>
-</li>
-<li><strong>Browse chronologically</strong> to follow the progression of the project</li>
+<li>Some shells showed minor breakage</li>
 </ul>
-<hr>
 </section>
-<section id="current-project-focus" class="level2">
-<h2 class="anchored" data-anchor-id="current-project-focus">Current Project Focus</h2>
-<p>The current phase of research is centered on:</p>
+<section id="next-steps" class="level2">
+<h2 class="anchored" data-anchor-id="next-steps">Next Steps</h2>
 <ul>
-<li>Optimizing <strong>glyoxal fixation</strong> for field conditions<br>
+<li>Standardize sampling location<br>
 </li>
-<li>Comparing <strong>in situ vs lab-preserved samples</strong><br>
+<li>Begin glyoxal fixation trials<br>
 </li>
-<li>Capturing short-term biological responses across <strong>tidal changes</strong></li>
+<li>Capture microscope images of morphospecies</li>
 </ul>
-<hr>
-</section>
-<section id="why-an-open-lab-notebook" class="level2">
-<h2 class="anchored" data-anchor-id="why-an-open-lab-notebook">Why an Open Lab Notebook?</h2>
-<p>Maintaining an open notebook increases transparency and reproducibility in scientific research. It also provides a clearer picture of how knowledge is built—from initial questions to refined methods and final results.</p>
-<hr>
-
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title" data-direction="asc">
-        Title
-      </option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Z29hbHMlMkNkYWlseS1lbnRyaWVz" data-listing-date-sort="NaN" data-listing-file-modified-sort="1774372023512" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="32">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-02-18-goals.html" class="no-external">Spring Semester Goals</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('Z29hbHM='); return false;">goals</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZGFpbHktZW50cmllcw=='); return false;">daily-entries</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2026-02-18-goals.html" class="no-external">
-<p>Spring 2026 Goals</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-02-18-goals.html" class="no-external">
-<div class="listing-date">
-Invalid Date
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="c2FtcGxpbmclMkNmaWVsZHdvcms=" data-listing-date-sort="1775016000000" data-listing-file-modified-sort="1775083939534" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./posts/2026-04-01-first-sampling.html" class="no-external">First Beach Sampling Trial</a>
-</h3>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('c2FtcGxpbmc='); return false;">sampling</div>
-
-<div class="listing-category" onclick="window.quartoListingCategory('ZmllbGR3b3Jr'); return false;">fieldwork</div>
-
-</div>
-<div class="delink listing-description"><a href="./posts/2026-04-01-first-sampling.html" class="no-external">
-<p>Initial sampling to test tidal effects on foraminifera</p>
-</a></div>
-</div>
-<div class="metadata">
-<a href="./posts/2026-04-01-first-sampling.html" class="no-external">
-<div class="listing-date">
-2026-04-01
-</div>
-<div class="listing-reading-time">1 min</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

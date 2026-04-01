@@ -1,17 +1,80 @@
 [
   {
-    "objectID": "posts/2026-02-18-goals.html",
-    "href": "posts/2026-02-18-goals.html",
-    "title": "Spring Semester Goals",
+    "objectID": "posts/2026-04-01-first-sampling.html",
+    "href": "posts/2026-04-01-first-sampling.html",
+    "title": "First Beach Sampling Trial",
     "section": "",
-    "text": "Spring 2026 goals\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSet up digital notebook"
+    "text": "This entry documents the first field sampling to test tidal and environmental effects on foraminifera."
   },
   {
-    "objectID": "posts/2026-02-18-goals.html#goals",
-    "href": "posts/2026-02-18-goals.html#goals",
-    "title": "Spring Semester Goals",
+    "objectID": "posts/2026-04-01-first-sampling.html#objective",
+    "href": "posts/2026-04-01-first-sampling.html#objective",
+    "title": "First Beach Sampling Trial",
+    "section": "Objective",
+    "text": "Objective\nTest the initial beach sampling timing during outgoing tide."
+  },
+  {
+    "objectID": "posts/2026-04-01-first-sampling.html#method",
+    "href": "posts/2026-04-01-first-sampling.html#method",
+    "title": "First Beach Sampling Trial",
+    "section": "Method",
+    "text": "Method\n\nSampled at 0 hr, 1 hr, 2 hr, 3 hr\n\nCollected sediment + water samples\n\nPreserved some samples in glyoxal for fixation testing"
+  },
+  {
+    "objectID": "posts/2026-04-01-first-sampling.html#observations",
+    "href": "posts/2026-04-01-first-sampling.html#observations",
+    "title": "First Beach Sampling Trial",
+    "section": "Observations",
+    "text": "Observations\n\nSalinity varied more than expected\n\nSediment composition changed across locations\n\nSome shells showed minor breakage"
+  },
+  {
+    "objectID": "posts/2026-04-01-first-sampling.html#next-steps",
+    "href": "posts/2026-04-01-first-sampling.html#next-steps",
+    "title": "First Beach Sampling Trial",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nStandardize sampling location\n\nBegin glyoxal fixation trials\n\nCapture microscope images of morphospecies"
+  },
+  {
+    "objectID": "notebook.html",
+    "href": "notebook.html",
+    "title": "Lab Notebook",
     "section": "",
-    "text": "Something\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSet up digital notebook"
+    "text": "This is an open record of ongoing research exploring how foraminifera respond to environmental stress in natural marine systems. Entries document experimental design, field sampling, protocol development, and early-stage results.\nRather than only presenting final conclusions, this notebook captures the process of science in real time—including challenges, adjustments, and unexpected observations."
+  },
+  {
+    "objectID": "notebook.html#lab-notebook",
+    "href": "notebook.html#lab-notebook",
+    "title": "Lab Notebook",
+    "section": "",
+    "text": "This is an open record of ongoing research exploring how foraminifera respond to environmental stress in natural marine systems. Entries document experimental design, field sampling, protocol development, and early-stage results.\nRather than only presenting final conclusions, this notebook captures the process of science in real time—including challenges, adjustments, and unexpected observations."
+  },
+  {
+    "objectID": "notebook.html#what-this-notebook-tracks",
+    "href": "notebook.html#what-this-notebook-tracks",
+    "title": "Lab Notebook",
+    "section": "What This Notebook Tracks",
+    "text": "What This Notebook Tracks\n\nField sampling across tidal cycles and environmental conditions\n\nDevelopment of in situ glyoxal fixation protocols\n\nMicroscopy and morphospecies identification\n\nRNA extraction and sequencing preparation\n\nData exploration and early interpretations"
+  },
+  {
+    "objectID": "notebook.html#how-to-use-this-page",
+    "href": "notebook.html#how-to-use-this-page",
+    "title": "Lab Notebook",
+    "section": "How to Use This Page",
+    "text": "How to Use This Page\n\nSearch to find specific experiments, methods, or observations\n\nFilter by category (e.g., sampling, microscopy, RNA-seq)\n\nSort entries by date or topic\n\nBrowse chronologically to follow the progression of the project"
+  },
+  {
+    "objectID": "notebook.html#current-project-focus",
+    "href": "notebook.html#current-project-focus",
+    "title": "Lab Notebook",
+    "section": "Current Project Focus",
+    "text": "Current Project Focus\nThe current phase of research is centered on:\n\nOptimizing glyoxal fixation for field conditions\n\nComparing in situ vs lab-preserved samples\n\nCapturing short-term biological responses across tidal changes"
+  },
+  {
+    "objectID": "notebook.html#why-an-open-lab-notebook",
+    "href": "notebook.html#why-an-open-lab-notebook",
+    "title": "Lab Notebook",
+    "section": "Why an Open Lab Notebook?",
+    "text": "Why an Open Lab Notebook?\nMaintaining an open notebook increases transparency and reproducibility in scientific research. It also provides a clearer picture of how knowledge is built—from initial questions to refined methods and final results."
   },
   {
     "objectID": "index.html",
@@ -56,17 +119,17 @@
     "text": "Contact\n\nEthan Doan\n\n\nEmail\netdoan (at) wm.edu\n\n\nFind me online\n\nGitHub"
   },
   {
-    "objectID": "notebook.html",
-    "href": "notebook.html",
-    "title": "Lab Notebook",
+    "objectID": "posts/2026-02-18-goals.html",
+    "href": "posts/2026-02-18-goals.html",
+    "title": "Spring Semester Goals",
     "section": "",
-    "text": "Welcome to my open lab notebook!\nThis is a cataloged and searchable collection of research notes and findings."
+    "text": "Spring 2026 goals\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSet up digital notebook"
   },
   {
-    "objectID": "notebook.html#how-to-explore-this-notebook",
-    "href": "notebook.html#how-to-explore-this-notebook",
-    "title": "Lab Notebook",
-    "section": "How to Explore This Notebook",
-    "text": "How to Explore This Notebook\n\nSearch: Use the search box to find entries by keywords\nFilter by Category: Click on categories to filter entries by project or topic\nSort: Sort entries by date, title, or other criteria\nBrowse: Scroll through all entries in chronological order"
+    "objectID": "posts/2026-02-18-goals.html#goals",
+    "href": "posts/2026-02-18-goals.html#goals",
+    "title": "Spring Semester Goals",
+    "section": "",
+    "text": "Something\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSet up digital notebook"
   }
 ]

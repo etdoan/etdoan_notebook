@@ -1,0 +1,28 @@
+---
+title: "First Beach Sampling Trial"
+author: "Ethan Doan"
+date: 2026-04-01
+categories: [sampling, fieldwork]
+description: "Initial sampling to test tidal effects on foraminifera"
+draft: false
+---
+
+This entry documents the first field sampling to test tidal and environmental effects on foraminifera.
+
+## Objective
+Test the initial beach sampling timing during outgoing tide.
+
+## Method
+- Sampled at 0 hr, 1 hr, 2 hr, 3 hr  
+- Collected sediment + water samples  
+- Preserved some samples in glyoxal for fixation testing
+
+## Observations
+- Salinity varied more than expected  
+- Sediment composition changed across locations  
+- Some shells showed minor breakage  
+
+## Next Steps
+- Standardize sampling location  
+- Begin glyoxal fixation trials  
+- Capture microscope images of morphospecies

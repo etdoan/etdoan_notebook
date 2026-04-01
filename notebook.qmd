@@ -14,16 +14,45 @@ page-layout: full
 title-block-banner: false
 ---
 
-Welcome to my open lab notebook! 
+## Lab Notebook
 
-This is a cataloged and searchable collection of research notes and findings.  
+This is an open record of ongoing research exploring how foraminifera respond to environmental stress in natural marine systems. Entries document experimental design, field sampling, protocol development, and early-stage results.
 
-## How to Explore This Notebook
-
-- **Search**: Use the search box to find entries by keywords
-- **Filter by Category**: Click on categories to filter entries by project or topic
-- **Sort**: Sort entries by date, title, or other criteria
-- **Browse**: Scroll through all entries in chronological order
+Rather than only presenting final conclusions, this notebook captures the **process of science in real time**—including challenges, adjustments, and unexpected observations.
 
 ---
 
+## What This Notebook Tracks
+
+- Field sampling across tidal cycles and environmental conditions  
+- Development of in situ glyoxal fixation protocols  
+- Microscopy and morphospecies identification  
+- RNA extraction and sequencing preparation  
+- Data exploration and early interpretations  
+
+---
+
+## How to Use This Page
+
+- **Search** to find specific experiments, methods, or observations  
+- **Filter by category** (e.g., sampling, microscopy, RNA-seq)  
+- **Sort entries** by date or topic  
+- **Browse chronologically** to follow the progression of the project  
+
+---
+
+## Current Project Focus
+
+The current phase of research is centered on:
+
+- Optimizing **glyoxal fixation** for field conditions  
+- Comparing **in situ vs lab-preserved samples**  
+- Capturing short-term biological responses across **tidal changes**  
+
+---
+
+## Why an Open Lab Notebook?
+
+Maintaining an open notebook increases transparency and reproducibility in scientific research. It also provides a clearer picture of how knowledge is built—from initial questions to refined methods and final results.
+
+---
