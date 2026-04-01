@@ -14,18 +14,46 @@
     "text": "Something\n\n\n\n\n\nSomething\n\n\n\n\n\nSomething\n\n\n\n\n\nSet up digital notebook"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ethan Doan",
+    "section": "",
+    "text": "Exploring how marine organisms respond to environmental change"
+  },
+  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Ethan Doan",
     "section": "About Me",
-    "text": "About Me\nHi, I’m Ethan. I’m a student at William & Mary studying science, with a strong interest in biochemistry and how it connects to real-world problems. I enjoy breaking down complex ideas and understanding how things work at a deeper level.\nOutside of academics, I’m always looking for ways to learn, improve, and take on new challenges. This site is a place where I share my work, interests, and things I’m building along the way."
+    "text": "About Me\nHi, I’m Ethan. I’m a student at William & Mary studying science, with a strong interest in biochemistry and how it connects to real-world problems.\nI’m especially interested in how biological systems respond to real-world environmental change, particularly at the molecular level.\nOutside of academics, I’m always looking for ways to learn, improve, and take on new challenges."
+  },
+  {
+    "objectID": "index.html#research-foram-response-to-environmental-stress",
+    "href": "index.html#research-foram-response-to-environmental-stress",
+    "title": "Ethan Doan",
+    "section": "Research: Foram Response to Environmental Stress",
+    "text": "Research: Foram Response to Environmental Stress\n\nOverview\nThis project explores how foraminifera—microscopic marine organisms critical to ocean ecosystems—respond to environmental stress such as changes in temperature and salinity.\n\n\nMethodology\n\nField sampling across tidal cycles\n\nHourly sampling over ~3-hour windows\n\nGlyoxal fixation (lab vs in situ)\n\nMicroscopy + morphospecies identification\n\nRNA sequencing + PCR\n\n\n\nTimeline\n\nWeeks 1–3: Sampling\n\nWeeks 1–5: Fixation testing\n\nWeeks 2–5: RNA prep\n\nWeeks 6–7: Sequencing\n\n\n\nWhy It Matters\nThis work improves how scientists study organisms in real environments and strengthens foraminifera as indicators of ocean health."
+  },
+  {
+    "objectID": "index.html#lab-notebook",
+    "href": "index.html#lab-notebook",
+    "title": "Ethan Doan",
+    "section": "Lab Notebook",
+    "text": "Lab Notebook\n\nWeek 1: First sampling trip — testing collection timing\n\nWeek 2: Glyoxal pH trials\n\nWeek 3: Microscopy + species ID\n\nWeek 4: RNA extraction + PCR\n\n(Updated regularly as the project progresses)"
+  },
+  {
+    "objectID": "index.html#what-im-learning",
+    "href": "index.html#what-im-learning",
+    "title": "Ethan Doan",
+    "section": "What I’m Learning",
+    "text": "What I’m Learning\n\nField sampling design\n\nMicroscopy + classification\n\nRNA sequencing workflows\n\nHPC data analysis"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Ethan Doan",
     "section": "Contact",
-    "text": "Contact\n\nEthan Doan\n\n\nEmail:\netdoan (at) wm.edu\n\n\n\nFind me online\n\nGitHub"
+    "text": "Contact\n\nEthan Doan\n\n\nEmail\netdoan (at) wm.edu\n\n\nFind me online\n\nGitHub"
   },
   {
     "objectID": "notebook.html",
